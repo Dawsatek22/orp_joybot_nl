@@ -6,13 +6,13 @@ Je moet de  wiringPi library geinstalleerd om de gpio pinnen te besturen(link is
 
 ![joybot_git_imgnl](https://github.com/user-attachments/assets/baf2e0a1-3e66-4c78-910e-bd160bd663fe)
 
-Link for the video tutorial video is here:(moet nog gemaakt worden)
+Link for the video tutorial video is here:(https://youtu.be/QqOWhWTqQXM?si=hdcOt74m2Bpkm6Bt)
 # deel1 playlist(00:00):
 # deel2(05.02) waarschuwingen en samenvattingen:
 Dit is een project om  orb-joybot te maken.Een joystick bestuurbare raspberry Pi 2wheeled robot in c++.(xbox one controller voor deze voorbeeld maar je kan ook andere bluetooth bestuurbare joystick gebruiken zoals een ps4)
 
 
-Het project is gebouwt met 3d geprinte onderdelen from open robotic platform(link here :)maar kan ook gecoden worden  (als u wilt) om je eigen custom robot te bouwen.
+Het project is gebouwt met 3d geprinte onderdelen from open robotic platform(link is hier: https://openroboticplatform.com/)maar kan ook gecoden worden  (als u wilt) om je eigen custom robot te bouwen.
 
 Deze project is gecodeert in een vscode editor maar kan ook  gecodeert worden  in een andere ide als je wilt. Deze project gebruikt voeding van 5v tot 12v zo wees voorzightig.
 
